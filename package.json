@@ -1,0 +1,16 @@
+{
+  "name": "code-and-tea",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "js",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Shubhanjali",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
